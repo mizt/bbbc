@@ -11,6 +11,10 @@ Tokisato Miztsuru 2018
 MacBook Pro 2016+   
 macOS Mojave+
 
+### Download
+
+[https://github.com/mizt/bbbc/archive/0.1.0.zip](https://github.com/mizt/bbbc/archive/0.1.0.zip)
+
 ### Note
 
 Go to `System Preferences` > `Security & Privacy`. Then select the `App Store and identified developers` radio button beneath Allow applications downloaded from.
