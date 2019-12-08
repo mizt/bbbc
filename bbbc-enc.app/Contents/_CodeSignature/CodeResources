@@ -8,9 +8,13 @@
 		<data>
 		W4JVHwSfAC9vMOb9GvFX0iBi138=
 		</data>
+		<key>Resources/config_types.h.in</key>
+		<data>
+		On41WXq+cMbgusarFraGr54RqhY=
+		</data>
 		<key>Resources/default.metallib</key>
 		<data>
-		MfiAlW7ZFyE1kouul1OZ17sw/cY=
+		1CNSl9hQpOfYvG94/HaDoAtAJEo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -22,11 +26,25 @@
 			z03nUa2njOrAM9vhamh3QpOZlbd7wqBSrheklXlYWU0=
 			</data>
 		</dict>
+		<key>Resources/config_types.h.in</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			u9BrAhleZHf9w1KKhoBtiqMJuX3wWMSOGoKmoZIQ5Ag=
+			</data>
+		</dict>
 		<key>Resources/default.metallib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AWUOqzaRQFWkdCaOsHcdxKRxjD+wmP+1keb4cAtgExk=
+			T6RTnql8d8sFwHJlajKqB/3ewBCBet/OL+Pnm4bl2qQ=
+			</data>
+		</dict>
+		<key>embedded.provisionprofile</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			n0PSJxuNGyswje/QQRYwDQYVtD6xjI7YD9EUbqw/mI8=
 			</data>
 		</dict>
 	</dict>

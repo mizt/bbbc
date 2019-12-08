@@ -8,7 +8,7 @@ var bin = [];
 	try {
 		files = fs.readdirSync(dir);
 	} catch (err) {
-		console.log("directory not found: "+dir);
+		console.log(dir+" not found.");
 		process.exit();
 	}
 	files.forEach(function(file){ 

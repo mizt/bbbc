@@ -8,21 +8,16 @@ Tokisato Miztsuru 2018
 
 ### Requirements
 
-MacBook Pro 2016+   
-macOS Mojave+
+macOS Mojave or later.
 
 ### Download
 
-[https://github.com/mizt/bbbc/archive/0.1.0.zip](https://github.com/mizt/bbbc/archive/0.1.0.zip)
-
-### Note
-
-Go to `System Preferences` > `Security & Privacy`. Then select the `App Store and identified developers` radio button beneath Allow applications downloaded from.
+[https://github.com/mizt/bbbc/archive/0.2.0.zip](https://github.com/mizt/bbbc/archive/0.2.0.zip)
 
 ### Encode
 
-Open `bbbc-enc.app` and drop .mp4 in the window.    
-(Automatically fits to 1920x1080 resolution)   
+Open `bbbc-enc.app` and drop `.mp4` in the window.    
+(Automatically fits to 1280x720 resolution)   
 
 ![](./img/fig02.png "")
 

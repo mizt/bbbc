@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/default.metallib</key>
 		<data>
-		Yg4G38BOZF3tHNn1vZllW8C8Jgk=
+		1CNSl9hQpOfYvG94/HaDoAtAJEo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -26,7 +26,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			I+WV1Jmhi0qEHy0Mx0tRCAAb0VJQz/MADqZjHCugAeg=
+			T6RTnql8d8sFwHJlajKqB/3ewBCBet/OL+Pnm4bl2qQ=
+			</data>
+		</dict>
+		<key>embedded.provisionprofile</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8iG0FGyfA47hwz3xi9Ju0eU8avz9iiq1GRYl7NGkzXI=
 			</data>
 		</dict>
 	</dict>
