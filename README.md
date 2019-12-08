@@ -57,7 +57,8 @@ Or manually.
 Open `bbbc.app`.    
 Try typing.
 
-`space bar` key to hide the fps.
+`space bar` key to hide the fps.  
+`delete` key erase screen.
 
 ### Dependencies
 
