@@ -12,7 +12,7 @@ macOS Mojave or later.
 
 ### Download
 
-[https://github.com/mizt/bbbc/archive/0.2.1.zip](https://github.com/mizt/bbbc/archive/0.2.1.zip)
+[https://github.com/mizt/bbbc/archive/0.2.2.zip](https://github.com/mizt/bbbc/archive/0.2.2.zip)
 
 ### Encode
 
