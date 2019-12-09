@@ -12,7 +12,7 @@ macOS Mojave or later.
 
 ### Download
 
-[https://github.com/mizt/bbbc/archive/0.2.4.zip](https://github.com/mizt/bbbc/archive/0.2.4.zip)
+[https://github.com/mizt/bbbc/archive/0.2.7.zip](https://github.com/mizt/bbbc/archive/0.2.7.zip)
 
 ### Encode
 
@@ -25,12 +25,12 @@ Wait until the progress bar reaches 100%.
 
 ![](./img/fig03.png "")
 
-The Data is exported to `~/Movies/bbbc/`. 
+The Data is exported to `~/Downloads/bbbc-data/`. 
 
 
 ### Settings
 
-Write random values to `~/Movies/bbbc/settings.json`.
+Write random values to `~/Downloads/bbbc-data/settings.json`.
 
 	$node bbbc-settings.js
 

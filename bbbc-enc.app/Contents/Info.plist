@@ -5,7 +5,7 @@
 	<key>ATSApplicationFontsPath</key>
 	<string>VT323-Regular.ttf</string>
 	<key>BuildMachineOSBuild</key>
-	<string>19B88</string>
+	<string>18G103</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -19,33 +19,37 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>0.2.4</string>
+	<string>0.2.7</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>6</string>
+	<string>7</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>11B52</string>
+	<string>11B44</string>
 	<key>DTPlatformVersion</key>
 	<string>GM</string>
 	<key>DTSDKBuild</key>
-	<string>19B81</string>
+	<string>19B68e</string>
 	<key>DTSDKName</key>
 	<string>macosx10.15</string>
 	<key>DTXcode</key>
 	<string>1120</string>
 	<key>DTXcodeBuild</key>
-	<string>11B52</string>
+	<string>11B44</string>
 	<key>LSApplicationCategoryType</key>
 	<string>public.app-category.games</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>10.14</string>
 	<key>LSUIElement</key>
 	<false/>
+	<key>NSDownloadsFolderUsageDescription</key>
+	<string></string>
+	<key>NSFileProviderPresenceUsageDescription</key>
+	<string></string>
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © 2018 mizt. All rights reserved.</string>
 	<key>NSPrincipalClass</key>

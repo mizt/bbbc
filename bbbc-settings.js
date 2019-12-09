@@ -1,6 +1,6 @@
 var fs = require("fs");
 var path = require("path");
-var bbbc = process.env["HOME"]+"/Movies/bbbc";
+var bbbc = process.env["HOME"]+"/Downloads/bbbc-data";
 
 var bin = []; 
 (function getFiles(dir) {
